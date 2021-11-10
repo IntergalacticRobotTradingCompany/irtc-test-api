@@ -23,10 +23,15 @@
     },
     {
       "id": 4,
-      "description": "Robot #4",
-      "external_url": "https://irtc.io",
+      "description": "Special Robot",
       "image": "https://irtc.io/images/teaser4.png",
-      "name": "Robot #4"
+      "name": "Robot #4",
+      "attributes": [
+        {
+          "trait_type": "Base",
+          "value": "Robot"
+        }
+      ]
     },
     {
       "id": 5,
