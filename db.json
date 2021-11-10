@@ -1,0 +1,55 @@
+{
+  "robots": [
+    {
+      "id": 1,
+      "description": "Robot #1",
+      "external_url": "https://irtc.io",
+      "image": "https://irtc.io/images/teaser1.png",
+      "name": "Robot #1"
+    },
+    {
+      "id": 2,
+      "description": "Robot #2",
+      "external_url": "https://irtc.io",
+      "image": "https://irtc.io/images/teaser2.png",
+      "name": "Robot #2"
+    },
+    {
+      "id": 3,
+      "description": "Robot #3",
+      "external_url": "https://irtc.io",
+      "image": "https://irtc.io/images/teaser3.png",
+      "name": "Robot #3"
+    },
+    {
+      "id": 4,
+      "description": "Robot #4",
+      "external_url": "https://irtc.io",
+      "image": "https://irtc.io/images/teaser4.png",
+      "name": "Robot #4"
+    },
+    {
+      "id": 5,
+      "description": "Robot #5",
+      "external_url": "https://irtc.io",
+      "image": "https://irtc.io/images/teaser5.png",
+      "name": "Robot #5"
+    }
+  ],
+  "parts": [
+    {
+      "id": 1,
+      "description": "Head #1",
+      "external_url": "https://irtc.io",
+      "image": "https://cdn2.iconfinder.com/data/icons/robotics-butterscotch-vol-2/512/Robot_Head-512.png",
+      "name": "Head #1 name"
+    },
+    {
+      "id": 2,
+      "description": "Head #2",
+      "external_url": "https://irtc.io",
+      "image": "https://cdn2.iconfinder.com/data/icons/robotics-butterscotch-vol-2/512/Robot_Head-512.png",
+      "name": "Head #2 name"
+    }
+  ]
+}
