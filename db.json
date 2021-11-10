@@ -55,6 +55,13 @@
       "external_url": "https://irtc.io",
       "image": "https://cdn2.iconfinder.com/data/icons/robotics-butterscotch-vol-2/512/Robot_Head-512.png",
       "name": "Head #2 name"
+    },
+    {
+      "id": 3,
+      "description": "Left Arm #1",
+      "external_url": "https://irtc.io",
+      "image": "http://freedomwat.ch/wp-content/uploads/2012/12/RobotArmShutterstock1.jpg",
+      "name": "Left Arm #1"
     }
   ]
 }
